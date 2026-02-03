@@ -57,6 +57,7 @@ const siteConfig = {
       image: getAsset('images/education/placeholder.png'),
       description: ['Relevant coursework: Statistics, Microeconomics, Macroeconomics, Advanced Excel, Programming Fundamentals',
         'GPA: 3.56 (Semester 1)',
+      ],              
     },
     {
       institution: 'GEMS Our Own English High School, Dubai',
@@ -64,8 +65,9 @@ const siteConfig = {
       year: '2023-2025',
       image: getAsset('images/education/placeholder.png'),
       description: [ 'Score: 90.3%',
-        'Subjects: Economics, Accountancy, Business Studies, Mathematics, English',],
-    }
+        'Subjects: Economics, Accountancy, Business Studies, Mathematics, English',
+      ],
+    },
   ],
 
 // ✅ Unified MOOC + Certifications Section
