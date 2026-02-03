@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Ardra Jyothikumar',
-    title: 'Economics with Data Science | Undergraduate',
+    title: 'Economics with Data Science Undergraduate',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
     'I am an undergraduate student pursuing Economics with Data Science at Christ University, Bangalore. ' +
